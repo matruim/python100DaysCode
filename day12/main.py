@@ -1,4 +1,5 @@
 import random
+# this art package is from https://github.com/sepandhaghighi/art#font-modes
 from art import *
 
 NUMBER_RANGE = (1, 100)
