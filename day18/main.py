@@ -1,10 +1,10 @@
 import turtle
 
 
-def draw_square(turtle: turtle.Turtle):
+def draw_square(ninja_turtle: turtle.Turtle):
     for _ in range(0, 4):
-        turtle.forward(100)
-        turtle.right(90)
+        ninja_turtle.forward(100)
+        ninja_turtle.right(90)
 
 
 tim = turtle.Turtle()
