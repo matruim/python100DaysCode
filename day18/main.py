@@ -1,16 +1,16 @@
-from turtle import Turtle, Screen
+import turtle
 
 
-def draw_square(turtle: Turtle):
+def draw_square(turtle: turtle.Turtle):
     for _ in range(0, 4):
         turtle.forward(100)
         turtle.right(90)
 
 
-tim = Turtle()
+tim = turtle.Turtle()
 tim.shape("turtle")
 tim.color("red")
 draw_square(tim)
 
-screen = Screen()
+screen = turtle.Screen()
 screen.exitonclick()
