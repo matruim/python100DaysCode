@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="clean up code">
+      <change beforePath="$PROJECT_DIR$/day18/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day18/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Psl3ZIyYdXqrmsZ3U0NxjrBoVV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day17" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="" />
+      <created>1684253471687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684253471687</updated>
+    </task>
+    <task id="LOCAL-00001" summary="git ignore file for pycharm">
+      <created>1684253745225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684253745225</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code clean up and start of day 15">
+      <created>1684254504656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684254504656</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done with Coffee Machine Code">
+      <created>1684338596806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684338596806</updated>
+    </task>
+    <task id="LOCAL-00004" summary="OOP Coffee Machine done">
+      <created>1685022826269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685022826269</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day 17 quiz program done">
+      <created>1685457261709</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685457261709</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Intro to Turtle Graphics">
+      <created>1685457547617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685457547617</updated>
+    </task>
+    <task id="LOCAL-00007" summary="drawing a square">
+      <created>1685457783793</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685457783793</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changed import style">
+      <created>1685457922432</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685457922432</updated>
+    </task>
+    <task id="LOCAL-00009" summary="had to update variable name do to shadow name">
+      <created>1685458001363</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685458001363</updated>
+    </task>
+    <task id="LOCAL-00010" summary="draw dashed line">
+      <created>1685458444285</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685458444285</updated>
+    </task>
+    <task id="LOCAL-00011" summary="drawing a shape within a shape with in a shape with random colors">
+      <created>1685464316693</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685464316693</updated>
+    </task>
+    <task id="LOCAL-00012" summary="clean up code">
+      <created>1685465455948</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685465455948</updated>
+    </task>
+    <task id="LOCAL-00013" summary="clean up code">
+      <created>1685465494148</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685465494148</updated>
+    </task>
+    <task id="LOCAL-00014" summary="clean up code">
+      <created>1685466811785</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1685466811785</updated>
+    </task>
+    <task id="LOCAL-00015" summary="clean up code">
+      <created>1685468253032</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685468253032</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git ignore file for pycharm" />
+    <MESSAGE value="Code clean up and start of day 15" />
+    <MESSAGE value="Done with Coffee Machine Code" />
+    <MESSAGE value="OOP Coffee Machine done" />
+    <MESSAGE value="Day 17 quiz program done" />
+    <MESSAGE value="Intro to Turtle Graphics" />
+    <MESSAGE value="drawing a square" />
+    <MESSAGE value="changed import style" />
+    <MESSAGE value="had to update variable name do to shadow name" />
+    <MESSAGE value="draw dashed line" />
+    <MESSAGE value="drawing a shape within a shape with in a shape with random colors" />
+    <MESSAGE value="clean up code" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean up code" />
+  </component>
+</project>
