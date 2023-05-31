@@ -1,5 +1,9 @@
 import turtle
 import random
+import colorgram
+import os
+
+absolute_path = os.path.dirname(__file__)
 
 
 def random_hex_color():
@@ -58,6 +62,23 @@ def draw_random_spirograph(ninja_turtle, size_of_gap):
         ninja_turtle.setheading(ninja_turtle.heading() + size_of_gap)
 
 
+def draw_random_dots(ninja_turtle, image):
+    colors = colorgram.extract(os.path.join(absolute_path, image), 30)
+    ninja_turtle.hideturtle()
+    print(random.choice(colors).rgb)
+    ninja_turtle.speed(0)
+    ninja_turtle.penup()
+    ninja_turtle.setpos(-(turtle.window_width()/2 - 35), -(turtle.window_height()/2 - 35))
+    for _ in range(int(turtle.window_height() / 100) + 1):
+        for _ in range(int(turtle.window_width() / 100)):
+            ninja_turtle.dot(50, (random.choice(colors)).rgb)
+            ninja_turtle.forward(100)
+        ninja_turtle.setx(-(turtle.window_width()/2 - 35))
+        ninja_turtle.sety(ninja_turtle.ycor() + 100)
+    ninja_turtle.showturtle()
+
+
+turtle.colormode(255)
 tim = turtle.Turtle()
 tim.shape('turtle')
 
@@ -75,5 +96,7 @@ tim.reset()
 
 draw_random_spirograph(tim, 5)
 tim.reset()
+
+draw_random_dots(tim, 'images.jpeg')
 
 turtle.Screen().exitonclick()
