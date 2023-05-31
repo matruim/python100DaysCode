@@ -49,6 +49,15 @@ def draw_random_walk(ninja_turtle):
     ninja_turtle.speed(6)
 
 
+def draw_random_spirograph(ninja_turtle, size_of_gap):
+    ninja_turtle.speed(0)
+    radius = 100
+    for _ in range(int(360 / size_of_gap)):
+        ninja_turtle.pencolor(random_hex_color())
+        ninja_turtle.circle(radius)
+        ninja_turtle.setheading(ninja_turtle.heading() + size_of_gap)
+
+
 tim = turtle.Turtle()
 tim.shape('turtle')
 
@@ -62,5 +71,9 @@ draw_shapes(tim)
 tim.reset()
 
 draw_random_walk(tim)
+tim.reset()
+
+draw_random_spirograph(tim, 5)
+tim.reset()
 
 turtle.Screen().exitonclick()
