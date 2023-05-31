@@ -6,9 +6,15 @@ def random_hex_color():
     return '#' + ''.join(random.choices('0123456789ABCDEF', k=6))
 
 
+def random_rgb_color():
+    turtle.colormode(255)
+    return random.randint(0, 255), random.randint(0, 255), random.randint(0, 255)
+
+
 def draw_square(ninja_turtle):
     ninja_turtle.pensize(1)
     for _ in range(4):
+        ninja_turtle.pencolor(random_rgb_color())
         ninja_turtle.forward(100)
         ninja_turtle.right(90)
 
