@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="spirographs">
-      <change afterPath="$PROJECT_DIR$/day18/images.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day18/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day18/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Dot Paintings Done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +31,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -180,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685552956799</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Dot Paintings Done">
+      <created>1685555701408</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1685555701408</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,6 +202,7 @@
     <MESSAGE value="created a rgb random value creator" />
     <MESSAGE value="random workspace stuff" />
     <MESSAGE value="spirographs" />
-    <option name="LAST_COMMIT_MESSAGE" value="spirographs" />
+    <MESSAGE value="Dot Paintings Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dot Paintings Done" />
   </component>
 </project>
