@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Dot Paintings Done" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="git ignore file created">
+      <change afterPath="$PROJECT_DIR$/day19/etchiscetch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,9 +40,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/day18" />
       <recent name="$PROJECT_DIR$/day17" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -183,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685555701408</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="git ignore file created">
+      <created>1685555878618</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1685555878618</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +214,7 @@
     <MESSAGE value="random workspace stuff" />
     <MESSAGE value="spirographs" />
     <MESSAGE value="Dot Paintings Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dot Paintings Done" />
+    <MESSAGE value="git ignore file created" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore file created" />
   </component>
 </project>
