@@ -29,3 +29,17 @@ class Scoreboard(turtle.Turtle):
     def update_player_score(self):
         self.playerScore += 1
         self.write_score()
+
+    def write_winning_message(self, winner):
+        self.goto(0, 0)
+        self.write(f"{winner} has won!!!", align=ALIGNMENT, font=("Courier", 24, "normal"))
+
+    def check_winner(self):
+        if self.playerScore >= 10:
+            self.write_winning_message("Player on the Right")
+            return True
+        elif self.computerScore >= 10:
+            self.write_winning_message("Player on the Left")
+            return True
+        else:
+            return False
