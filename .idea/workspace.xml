@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="etchiscetch and turtle race">
-      <change afterPath="$PROJECT_DIR$/day20/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/snake_game.py" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="finished day 20 and start day 21">
+      <change afterPath="$PROJECT_DIR$/day21/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day21/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/day21/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +36,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode",
+    "last_opened_file_path": "/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/day21",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day21" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/day18" />
@@ -201,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685733043741</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="finished day 20 and start day 21">
+      <created>1686604261169</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1686604261169</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,6 +235,7 @@
     <MESSAGE value="Dot Paintings Done" />
     <MESSAGE value="git ignore file created" />
     <MESSAGE value="etchiscetch and turtle race" />
-    <option name="LAST_COMMIT_MESSAGE" value="etchiscetch and turtle race" />
+    <MESSAGE value="finished day 20 and start day 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished day 20 and start day 21" />
   </component>
 </project>
