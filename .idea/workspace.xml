@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="finished day 20 and start day 21">
-      <change afterPath="$PROJECT_DIR$/day21/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/scoreboard.py" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="finished day 21">
+      <change afterPath="$PROJECT_DIR$/day22/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day21/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/day21/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/day21",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/day21&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day21" />
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686604261169</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="finished day 21">
+      <created>1687530592363</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1687530592363</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,6 +243,7 @@
     <MESSAGE value="git ignore file created" />
     <MESSAGE value="etchiscetch and turtle race" />
     <MESSAGE value="finished day 20 and start day 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished day 20 and start day 21" />
+    <MESSAGE value="finished day 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished day 21" />
   </component>
 </project>
