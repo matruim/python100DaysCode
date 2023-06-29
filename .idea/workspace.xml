@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="pong game finished">
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="pong code clean up">
+      <change afterPath="$PROJECT_DIR$/day23/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day22/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/day22/ball.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day22/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day22/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day22/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/day22/scoreboard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687544911534</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="pong code clean up">
+      <created>1687550168055</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1687550168055</updated>
+    </task>
+    <task id="LOCAL-00026" summary="pong code clean up">
+      <created>1687550175978</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1687550175978</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -251,6 +266,7 @@
     <MESSAGE value="finished day 20 and start day 21" />
     <MESSAGE value="finished day 21" />
     <MESSAGE value="pong game finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="pong game finished" />
+    <MESSAGE value="pong code clean up" />
+    <option name="LAST_COMMIT_MESSAGE" value="pong code clean up" />
   </component>
 </project>
