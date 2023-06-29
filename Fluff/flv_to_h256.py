@@ -43,9 +43,9 @@ if not input_folder:
     print("No input folder selected. Exiting...")
     sys.exit(1)
 
-output_folder = os.path.join(input_folder, "output")
+output_folder = os.path.join(input_folder, "Output")
 
-# Create the output folder if it doesn't exist
+# Create the Output folder if it doesn't exist
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 

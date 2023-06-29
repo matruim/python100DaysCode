@@ -5,11 +5,11 @@
 
 # #TODO-1 - Randomly choose a word from the word_list and assign it to a variable called chosen_word.
 # chosen_word = random.choice(word_list)
-# letters = int(len(chosen_word))
+# Letters = int(len(chosen_word))
 # #TODO-2 - Ask the user to guess a letter and assign their answer to a variable called guess. Make guess lowercase.
 # guess = input("Please guess a letter: ").lower()
 
-# #TODO-3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word.
+# #TODO-3 - Check if the letter the user guessed (guess) is one of the Letters in the chosen_word.
 # for letter in chosen_word:
 #     if letter == guess:
 #         print("Right")
@@ -66,7 +66,7 @@
 #     display += "_"
 
 # print(display)
-# #TODO-1: - Use a while loop to let the user guess again. The loop should only stop once the user has guessed all the letters in the chosen_word and 'display' has no more blanks ("_"). Then you can tell the user they've won.
+# #TODO-1: - Use a while loop to let the user guess again. The loop should only stop once the user has guessed all the Letters in the chosen_word and 'display' has no more blanks ("_"). Then you can tell the user they've won.
 
 # while '_' in display:
 #     guess = input("Guess a letter: ").lower()
@@ -181,7 +181,7 @@
 #     #Join all the elements in the list and turn it into a String.
 #     print(f"{' '.join(display)}")
 
-#     #Check if user has got all letters.
+#     #Check if user has got all Letters.
 #     if "_" not in display:
 #         end_of_game = True
 #         print("You win.")
@@ -242,7 +242,7 @@ while not end_of_game:
     #Join all the elements in the list and turn it into a String.
     print(f"{' '.join(display)}")
 
-    #Check if user has got all letters.
+    #Check if user has got all Letters.
     if "_" not in display:
         end_of_game = True
         print("You win.")

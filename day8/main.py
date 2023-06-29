@@ -77,7 +77,7 @@
 #     #plain_text = "hello"
 #     #shift = 5
 #     #cipher_text = "mjqqt"
-#     #print output: "The encoded text is mjqqt"
+#     #print Output: "The encoded text is mjqqt"
 
 #     ##HINT: How do you get the index of an item in a list:
 #     #https://stackoverflow.com/questions/176918/finding-the-index-of-an-item-in-a-list
@@ -123,7 +123,7 @@
 #   #cipher_text = "mjqqt"
 #   #shift = 5
 #   #plain_text = "hello"
-#   #print output: "The decoded text is hello"
+#   #print Output: "The decoded text is hello"
 #   max_index = len(alphabet) - 1
 #   plain_text = ""
 #   for letter in cipher_text:
@@ -214,7 +214,7 @@ while True:
     text = input("Type your message:\n").lower()
     shift = int(input("Type the shift number:\n"))
 
-    #TODO-2: What if the user enters a shift that is greater than the number of letters in the alphabet?
+    #TODO-2: What if the user enters a shift that is greater than the number of Letters in the alphabet?
     #Try running the program and entering a shift number of 45.
     #Add some code so that the program continues to work even if the user enters a shift number greater than 26. 
     #Hint: Think about how you can use the modulus (%).

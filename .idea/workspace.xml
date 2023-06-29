@@ -4,12 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="pong code clean up">
-      <change afterPath="$PROJECT_DIR$/day23/car_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/scoreboard.py" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="update snake game to do a high score. do a mailmerge.">
+      <change afterPath="$PROJECT_DIR$/day24/mailmerge/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/mailmerge/Input/Names/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/mailmerge/mail_merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/my_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/readwrite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/snake_game/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/snake_game/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/snake_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/snake_game/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/snake_game/snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fluff/flv_to_h256.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fluff/flv_to_h256.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fluff/old/flv_to_h256.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fluff/old/flv_to_h256.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fluff/split/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fluff/split/gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/day16/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day7/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day8/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,23 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/day21&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/day24",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day24" />
       <recent name="$PROJECT_DIR$/day21" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day24/mailmerge/Input" />
+      <recent name="$PROJECT_DIR$/day24/snake_game" />
+      <recent name="$PROJECT_DIR$/day24" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/day18" />
-      <recent name="$PROJECT_DIR$/day17" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -241,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687550175978</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Frogger clone">
+      <created>1688067390597</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1688067390597</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -267,6 +291,8 @@
     <MESSAGE value="finished day 21" />
     <MESSAGE value="pong game finished" />
     <MESSAGE value="pong code clean up" />
-    <option name="LAST_COMMIT_MESSAGE" value="pong code clean up" />
+    <MESSAGE value="Frogger clone" />
+    <MESSAGE value="update snake game to do a high score. do a mailmerge." />
+    <option name="LAST_COMMIT_MESSAGE" value="update snake game to do a high score. do a mailmerge." />
   </component>
 </project>
