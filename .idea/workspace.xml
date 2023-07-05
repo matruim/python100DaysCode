@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="update snake game to do a high score. do a mailmerge.">
-      <change afterPath="$PROJECT_DIR$/day24/mailmerge/Input/Letters/starting_letter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/mailmerge/Input/Names/invited_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/mailmerge/mail_merge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/my_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/readwrite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/snake_game/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/snake_game/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/snake_game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/snake_game/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/snake_game/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/new_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/weather_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fluff/flv_to_h256.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fluff/flv_to_h256.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fluff/old/flv_to_h256.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fluff/old/flv_to_h256.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fluff/split/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fluff/split/gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day16/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/day16/menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day7/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day8/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +27,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Psl3ZIyYdXqrmsZ3U0NxjrBoVV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/day24",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -60,11 +51,11 @@
       <recent name="$PROJECT_DIR$/day21" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day25" />
       <recent name="$PROJECT_DIR$/day24/mailmerge/Input" />
       <recent name="$PROJECT_DIR$/day24/snake_game" />
       <recent name="$PROJECT_DIR$/day24" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/day18" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -265,10 +256,18 @@
       <option name="project" value="LOCAL" />
       <updated>1688067390597</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="update snake game to do a high score. do a mailmerge.">
+      <created>1688071048341</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1688071048341</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="git ignore file for pycharm" />
     <MESSAGE value="Code clean up and start of day 15" />
     <MESSAGE value="Done with Coffee Machine Code" />
