@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="update snake game to do a high score. do a mailmerge.">
-      <change afterPath="$PROJECT_DIR$/day25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25/new_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25/weather_data.csv" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="new game for guessing 50 states">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day25/us-states-game-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day25/us-states-game-start/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +31,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TODO_SCOPE": "All Places",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/day24",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/day24&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day24" />
@@ -263,12 +260,25 @@
       <option name="project" value="LOCAL" />
       <updated>1688071048341</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="day 25 working with pandas and csv files">
+      <created>1688588468519</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1688588468519</updated>
+    </task>
+    <task id="LOCAL-00030" summary="new game for guessing 50 states">
+      <created>1688589150735</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1688589150735</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="git ignore file for pycharm" />
     <MESSAGE value="Code clean up and start of day 15" />
     <MESSAGE value="Done with Coffee Machine Code" />
     <MESSAGE value="OOP Coffee Machine done" />
@@ -292,6 +302,8 @@
     <MESSAGE value="pong code clean up" />
     <MESSAGE value="Frogger clone" />
     <MESSAGE value="update snake game to do a high score. do a mailmerge." />
-    <option name="LAST_COMMIT_MESSAGE" value="update snake game to do a high score. do a mailmerge." />
+    <MESSAGE value="day 25 working with pandas and csv files" />
+    <MESSAGE value="new game for guessing 50 states" />
+    <option name="LAST_COMMIT_MESSAGE" value="new game for guessing 50 states" />
   </component>
 </project>
