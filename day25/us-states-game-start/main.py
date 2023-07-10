@@ -4,6 +4,10 @@ import tkinter as tk
 from tkinter import messagebox
 
 
+def confirm_exit():
+    return messagebox.askyesno("Confirm", "Are you sure you want to quit the game?")
+
+
 class USStatesGame:
     def __init__(self):
         self.screen = Screen()
@@ -24,7 +28,7 @@ class USStatesGame:
         while self.num_correct < 50:
             answer_state = self.get_state_guess()
             if answer_state is None:
-                if self.confirm_exit():
+                if confirm_exit():
                     exit()
                 else:
                     continue
@@ -39,9 +43,6 @@ class USStatesGame:
         if state_input is not None:
             return state_input.lower()
         return None
-
-    def confirm_exit(self):
-        return messagebox.askyesno("Confirm", "Are you sure you want to quit the game?")
 
     def check_state_guess(self, state_name):
         matched_states = self.states[self.states["state"].str.lower() == state_name]

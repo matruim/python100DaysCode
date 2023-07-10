@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="new game for guessing 50 states">
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="50 states game working">
+      <change afterPath="$PROJECT_DIR$/day26/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day25/us-states-game-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day25/us-states-game-start/main.py" afterDir="false" />
     </list>
@@ -274,12 +277,18 @@
       <option name="project" value="LOCAL" />
       <updated>1688589150735</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="50 states game working">
+      <created>1688592361735</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1688592361735</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Code clean up and start of day 15" />
     <MESSAGE value="Done with Coffee Machine Code" />
     <MESSAGE value="OOP Coffee Machine done" />
     <MESSAGE value="Day 17 quiz program done" />
@@ -304,6 +313,7 @@
     <MESSAGE value="update snake game to do a high score. do a mailmerge." />
     <MESSAGE value="day 25 working with pandas and csv files" />
     <MESSAGE value="new game for guessing 50 states" />
-    <option name="LAST_COMMIT_MESSAGE" value="new game for guessing 50 states" />
+    <MESSAGE value="50 states game working" />
+    <option name="LAST_COMMIT_MESSAGE" value="50 states game working" />
   </component>
 </project>
