@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="pomodoro app done. could use some modification. would be nice to add sound and force to top of screen.">
-      <change afterPath="$PROJECT_DIR$/days26-50/day29/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day29/main.py" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 29 password manager">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days26-50/day29/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day29/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -322,12 +321,19 @@
       <option name="project" value="LOCAL" />
       <updated>1689264665447</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="day 29 password manager">
+      <option name="closed" value="true" />
+      <created>1689267134967</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1689267134967</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="changed import style" />
     <MESSAGE value="had to update variable name do to shadow name" />
     <MESSAGE value="draw dashed line" />
     <MESSAGE value="drawing a shape within a shape with in a shape with random colors" />
@@ -352,6 +358,7 @@
     <MESSAGE value="code clean up" />
     <MESSAGE value="day 28 start" />
     <MESSAGE value="pomodoro app done. could use some modification. would be nice to add sound and force to top of screen." />
-    <option name="LAST_COMMIT_MESSAGE" value="pomodoro app done. could use some modification. would be nice to add sound and force to top of screen." />
+    <MESSAGE value="day 29 password manager" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 29 password manager" />
   </component>
 </project>
