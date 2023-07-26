@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 29 password manager">
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 29 password manager saves passwords in plane txt but it does autogen passwords.">
+      <change afterPath="$PROJECT_DIR$/days26-50/day30/Password_Manager/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day30/Password_Manager/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day30/Password_Manager/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day30/a_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day30/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day30/nato_phonetic_alphabet.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days26-50/day29/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day29/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/day24&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/days26-50/day30/Password_Manager",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/days26-50/day30/Password_Manager" />
+      <recent name="$PROJECT_DIR$/days26-50/day30" />
       <recent name="$PROJECT_DIR$/day24" />
       <recent name="$PROJECT_DIR$/day21" />
     </key>
@@ -329,12 +336,19 @@
       <option name="project" value="LOCAL" />
       <updated>1689267134967</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="day 29 password manager saves passwords in plane txt but it does autogen passwords.">
+      <option name="closed" value="true" />
+      <created>1689270562934</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1689270562934</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="had to update variable name do to shadow name" />
     <MESSAGE value="draw dashed line" />
     <MESSAGE value="drawing a shape within a shape with in a shape with random colors" />
     <MESSAGE value="clean up code" />
@@ -359,6 +373,7 @@
     <MESSAGE value="day 28 start" />
     <MESSAGE value="pomodoro app done. could use some modification. would be nice to add sound and force to top of screen." />
     <MESSAGE value="day 29 password manager" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 29 password manager" />
+    <MESSAGE value="day 29 password manager saves passwords in plane txt but it does autogen passwords." />
+    <option name="LAST_COMMIT_MESSAGE" value="day 29 password manager saves passwords in plane txt but it does autogen passwords." />
   </component>
 </project>
