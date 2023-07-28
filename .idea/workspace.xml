@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="created a flip card system to study 100 most common French words">
-      <change afterPath="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards/chinese.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards/data/chinese_words.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards/images/card_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards/images/card_front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards/images/wrong.png" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="created a chinese flashcard program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards/chinese.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards/chinese.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days26-50/day31/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day31/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,12 +357,19 @@
       <option name="project" value="LOCAL" />
       <updated>1690571659210</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="created a chinese flashcard program">
+      <option name="closed" value="true" />
+      <created>1690576441431</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1690576441431</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="clean up code" />
     <MESSAGE value="created a rgb random value creator" />
     <MESSAGE value="random workspace stuff" />
     <MESSAGE value="spirographs" />
@@ -391,6 +394,7 @@
     <MESSAGE value="day 29 password manager saves passwords in plane txt but it does autogen passwords." />
     <MESSAGE value="Day 30 all about error handling complete" />
     <MESSAGE value="created a flip card system to study 100 most common French words" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a flip card system to study 100 most common French words" />
+    <MESSAGE value="created a chinese flashcard program" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a chinese flashcard program" />
   </component>
 </project>

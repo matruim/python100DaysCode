@@ -41,7 +41,12 @@ def right_answer():
     words["English"].pop(word)
     window.after_cancel(rotate)
     save_words()
-    load_word()
+    if len(words["Chinese"]) < 1:
+        show_message("No more words to learn!")
+        no_btn.config(state=tk.DISABLED)
+        yes_btn.config(state=tk.DISABLED)
+    else:
+        load_word()
 
 
 def flip_card(english_word):
@@ -58,6 +63,10 @@ def load_word():
     canvas.itemconfig(word_label, text=words["Chinese"][word], font=CHINESE_FONT)
     canvas.itemconfig(pinyin, text=words["Pinyin"][word])
     rotate = window.after(3000, flip_card, words["English"][word])
+
+
+def show_message(message):
+    canvas.itemconfig(word_label, text=message)
 
 
 def startup():
