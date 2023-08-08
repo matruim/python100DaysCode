@@ -1,5 +1,4 @@
 import requests
-from tkinter import Tk, Canvas, Button
 from question_model import Question
 from quiz_brain import QuizBrain
 from ui import QuizInterface
