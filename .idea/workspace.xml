@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="ISS Tracker and email">
-      <change afterPath="$PROJECT_DIR$/days26-50/day34/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day34/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day34/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day34/quiz_brain.py" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Gui version of the quiz game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days26-50/day34/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day34/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -411,12 +408,19 @@
       <option name="project" value="LOCAL" />
       <updated>1691515437956</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Gui version of the quiz game">
+      <option name="closed" value="true" />
+      <created>1691521064694</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1691521064694</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="git ignore file created" />
     <MESSAGE value="etchiscetch and turtle race" />
     <MESSAGE value="finished day 20 and start day 21" />
     <MESSAGE value="finished day 21" />
@@ -441,7 +445,8 @@
     <MESSAGE value="automated birthday email sender." />
     <MESSAGE value="Kayne Quote Program" />
     <MESSAGE value="ISS Tracker and email" />
-    <option name="LAST_COMMIT_MESSAGE" value="ISS Tracker and email" />
+    <MESSAGE value="Gui version of the quiz game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gui version of the quiz game" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -5,18 +5,18 @@ from quiz_brain import QuizBrain
 
 
 def initialize_gui():
-    tk = Tk()
-    tk.title("Quiz Time")
-    tk.config(padx=50, pady=50)
+    win = Tk()
+    win.title("Quiz Time")
+    win.config(padx=50, pady=50)
 
     c = Canvas(width=600, height=414)
-    question_text_id = c.create_text(260, 207, text="", width=500, font=("Arial", 30, "bold"), fill="black")
+    qt = c.create_text(260, 207, text="", width=500, font=("Arial", 30, "bold"), fill="black")
     c.grid(row=0, column=0, columnspan=2)
 
     true_btn = create_button("True", lambda: check_answer(True), row=1, column=0)
     false_btn = create_button("False", lambda: check_answer(False), row=1, column=1)
 
-    return tk, c, true_btn, false_btn, question_text_id, c.cget("bg")
+    return win, c, true_btn, false_btn, qt, c.cget("bg")
 
 
 def create_button(text, command, row, column):
@@ -37,11 +37,7 @@ def flash_color(color, delay_ms, num_flashes=2):
 
 
 def check_answer(answer):
-    result = quiz_brain.is_correct_answer(answer)
-    if result:
-        flash_color("green", 500)
-    else:
-        flash_color("red", 500)
+    flash_color("green", 500) if quiz_brain.is_correct_answer(answer) else flash_color("red", 500)
 
 
 def next_question():
