@@ -5,9 +5,6 @@ from quiz_brain import QuizBrain
 from ui import QuizInterface
 
 
-
-
-
 def start_game():
     url = "https://opentdb.com/api.php?amount=10&type=boolean"
     response = requests.get(url)
@@ -19,5 +16,3 @@ def start_game():
 
 quiz_brain = start_game()
 QuizInterface(quiz_brain)
-
-
