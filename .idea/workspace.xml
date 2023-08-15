@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Gui udpate and clean up">
-      <change afterPath="$PROJECT_DIR$/days26-50/day35/main.py" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Done with day 35">
       <change afterPath="$PROJECT_DIR$/days26-50/day36/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -292,14 +291,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00034" summary="code clean up">
-      <option name="closed" value="true" />
-      <created>1689178449130</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1689178449130</updated>
-    </task>
     <task id="LOCAL-00035" summary="day 28 start">
       <option name="closed" value="true" />
       <created>1689193843631</created>
@@ -436,12 +427,19 @@
       <option name="project" value="LOCAL" />
       <updated>1691530499167</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Done with day 35">
+      <option name="closed" value="true" />
+      <created>1692115313893</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1692115313893</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="finished day 20 and start day 21" />
     <MESSAGE value="finished day 21" />
     <MESSAGE value="pong game finished" />
     <MESSAGE value="pong code clean up" />
@@ -466,7 +464,8 @@
     <MESSAGE value="ISS Tracker and email" />
     <MESSAGE value="Gui version of the quiz game" />
     <MESSAGE value="Gui udpate and clean up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gui udpate and clean up" />
+    <MESSAGE value="Done with day 35" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done with day 35" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
