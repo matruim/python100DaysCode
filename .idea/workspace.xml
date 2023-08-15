@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Done with day 35">
-      <change afterPath="$PROJECT_DIR$/days26-50/day36/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Created a stock tracker that will send you a text with the change in stock and the headlines related to the company.">
+      <change beforePath="$PROJECT_DIR$/days26-50/day36/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day36/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,14 +290,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00035" summary="day 28 start">
-      <option name="closed" value="true" />
-      <created>1689193843631</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1689193843631</updated>
-    </task>
     <task id="LOCAL-00036" summary="pomodoro app done. could use some modification. would be nice to add sound and force to top of screen.">
       <option name="closed" value="true" />
       <created>1689264665447</created>
@@ -435,12 +426,19 @@
       <option name="project" value="LOCAL" />
       <updated>1692115313893</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Created a stock tracker that will send you a text with the change in stock and the headlines related to the company.">
+      <option name="closed" value="true" />
+      <created>1692116240506</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1692116240506</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="finished day 21" />
     <MESSAGE value="pong game finished" />
     <MESSAGE value="pong code clean up" />
     <MESSAGE value="Frogger clone" />
@@ -465,7 +463,8 @@
     <MESSAGE value="Gui version of the quiz game" />
     <MESSAGE value="Gui udpate and clean up" />
     <MESSAGE value="Done with day 35" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done with day 35" />
+    <MESSAGE value="Created a stock tracker that will send you a text with the change in stock and the headlines related to the company." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a stock tracker that will send you a text with the change in stock and the headlines related to the company." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
