@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Created a stock tracker that will send you a text with the change in stock and the headlines related to the company.">
-      <change beforePath="$PROJECT_DIR$/days26-50/day36/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day36/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Code clean up and optimization" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,14 +288,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00036" summary="pomodoro app done. could use some modification. would be nice to add sound and force to top of screen.">
-      <option name="closed" value="true" />
-      <created>1689264665447</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1689264665447</updated>
-    </task>
     <task id="LOCAL-00037" summary="day 29 password manager">
       <option name="closed" value="true" />
       <created>1689267134967</created>
@@ -434,12 +424,19 @@
       <option name="project" value="LOCAL" />
       <updated>1692116240506</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Code clean up and optimization">
+      <option name="closed" value="true" />
+      <created>1692116592859</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1692116592859</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="pong game finished" />
     <MESSAGE value="pong code clean up" />
     <MESSAGE value="Frogger clone" />
     <MESSAGE value="update snake game to do a high score. do a mailmerge." />
@@ -464,7 +461,8 @@
     <MESSAGE value="Gui udpate and clean up" />
     <MESSAGE value="Done with day 35" />
     <MESSAGE value="Created a stock tracker that will send you a text with the change in stock and the headlines related to the company." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a stock tracker that will send you a text with the change in stock and the headlines related to the company." />
+    <MESSAGE value="Code clean up and optimization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code clean up and optimization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
