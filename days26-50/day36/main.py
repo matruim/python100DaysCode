@@ -13,6 +13,7 @@ NEWS_API_KEY = os.getenv("NEWS_API_KEY")
 TWILIO_AUTH_TOKEN = os.getenv("TWILLIO_AUTH_TOKEN")
 TWILIO_PHONE_NUMBER = os.getenv("TWILLIO_PHONE_NUMBER")
 MY_PHONE_NUMBER = os.getenv("MY_PHONE_NUMBER")
+TWILLIO_SID = os.getenv("TWILLIO_SID")
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
@@ -54,7 +55,7 @@ def get_news(symbol, percent):
 
 
 def send_sms(message_text):
-    client = Client(TWILIO_AUTH_TOKEN, TWILIO_AUTH_TOKEN)
+    client = Client(TWILLIO_SID, TWILIO_AUTH_TOKEN)
     message = client.messages.create(
         from_=TWILIO_PHONE_NUMBER,
         body=message_text,
