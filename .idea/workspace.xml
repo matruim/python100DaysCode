@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="created a flight search app">
-      <change afterPath="$PROJECT_DIR$/days26-50/day40/data_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day40/flight_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day40/flight_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day40/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day40/notification_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day45/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day45/movies.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day45/website.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day46/main.py" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="finished both 45 and 46">
+      <change afterPath="$PROJECT_DIR$/days26-50/day46/token.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days26-50/day39/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day39/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days26-50/day46/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day46/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,14 +292,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00040" summary="created a flip card system to study 100 most common French words">
-      <option name="closed" value="true" />
-      <created>1690571659210</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1690571659210</updated>
-    </task>
     <task id="LOCAL-00041" summary="created a chinese flashcard program">
       <option name="closed" value="true" />
       <created>1690576441431</created>
@@ -444,12 +428,19 @@
       <option name="project" value="LOCAL" />
       <updated>1692300152574</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="finished both 45 and 46">
+      <option name="closed" value="true" />
+      <created>1693927626094</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1693927626095</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="update snake game to do a high score. do a mailmerge." />
     <MESSAGE value="day 25 working with pandas and csv files" />
     <MESSAGE value="new game for guessing 50 states" />
     <MESSAGE value="50 states game working" />
@@ -474,7 +465,8 @@
     <MESSAGE value="Code clean up and optimization" />
     <MESSAGE value="created a pixla account and deleted it" />
     <MESSAGE value="created a flight search app" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a flight search app" />
+    <MESSAGE value="finished both 45 and 46" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished both 45 and 46" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

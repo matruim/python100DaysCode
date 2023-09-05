@@ -22,7 +22,7 @@ def get_spotify_client() -> spotipy.Spotify:
 
 def url_construct() -> str:
     year = input("Give us a date to look at the top song of (yyyy-mm-dd): ")
-    return f"https://www.billboard.com/charts/hot-100/{year}/"
+    return f"https://www.billboard.com/charts/hot-100/{year}"
 
 
 def get_songs(uri) -> Dict[str, str]:
