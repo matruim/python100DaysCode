@@ -1,9 +1,11 @@
 from flight_search import FlightSearch
 from data_manager import DataManager
 from notification_manager import NotificationManager
+
+
 sheet = DataManager()
 flight_search = FlightSearch()
-notificaiton_manager = NotificationManager()
+notification_manager = NotificationManager()
 
 for city in sheet.get_sheet_data():
     if city["iataCode"] == '':
@@ -13,4 +15,4 @@ for city in sheet.get_sheet_data():
 
     flight = flight_search.search_flight_to(city["iataCode"])
     if flight and flight.price < city["lowestPrice"]:
-        notificaiton_manager.send_sms(flight)
+        notification_manager.send_sms(flight)

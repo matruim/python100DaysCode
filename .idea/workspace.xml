@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="created a pixla account and deleted it">
-      <change afterPath="$PROJECT_DIR$/days26-50/day38/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day39/data_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day39/flight_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day39/flight_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day39/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day39/notification_manager.py" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="created a flight search app">
+      <change afterPath="$PROJECT_DIR$/days26-50/day40/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day40/flight_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day40/flight_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day40/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day40/notification_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day45/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day45/movies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day45/website.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days26-50/day46/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days26-50/day36/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day36/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days26-50/day39/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day39/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,7 @@
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: -1
+  &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2Psl3ZIyYdXqrmsZ3U0NxjrBoVV" />
   <component name="ProjectLevelVcsManager">
@@ -51,24 +54,24 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/days26-50/day34/images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/days26-50/day40&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/days26-50/day40" />
       <recent name="$PROJECT_DIR$/days26-50/day34/images" />
       <recent name="$PROJECT_DIR$/days26-50/day32" />
       <recent name="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards" />
       <recent name="$PROJECT_DIR$/days26-50/day31" />
-      <recent name="$PROJECT_DIR$/days26-50/day30/Password_Manager" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/days26-50/day45" />
       <recent name="$PROJECT_DIR$/days26-50/day39" />
       <recent name="$PROJECT_DIR$/days26-50/day36" />
       <recent name="$PROJECT_DIR$/days26-50/day34" />
       <recent name="$PROJECT_DIR$/days26-50/day34/images" />
-      <recent name="$PROJECT_DIR$/days26-50/main" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -297,14 +300,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00039" summary="Day 30 all about error handling complete">
-      <option name="closed" value="true" />
-      <created>1690390224511</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1690390224511</updated>
-    </task>
     <task id="LOCAL-00040" summary="created a flip card system to study 100 most common French words">
       <option name="closed" value="true" />
       <created>1690571659210</created>
@@ -441,12 +436,19 @@
       <option name="project" value="LOCAL" />
       <updated>1692217277568</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="created a flight search app">
+      <option name="closed" value="true" />
+      <created>1692300152573</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1692300152574</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Frogger clone" />
     <MESSAGE value="update snake game to do a high score. do a mailmerge." />
     <MESSAGE value="day 25 working with pandas and csv files" />
     <MESSAGE value="new game for guessing 50 states" />
@@ -471,7 +473,8 @@
     <MESSAGE value="Created a stock tracker that will send you a text with the change in stock and the headlines related to the company." />
     <MESSAGE value="Code clean up and optimization" />
     <MESSAGE value="created a pixla account and deleted it" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a pixla account and deleted it" />
+    <MESSAGE value="created a flight search app" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a flight search app" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -485,6 +488,11 @@
           <url>file://$PROJECT_DIR$/days26-50/day39/flight_search.py</url>
           <line>46</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/days26-50/day40/flight_search.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
