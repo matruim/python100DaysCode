@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="finished both 45 and 46">
-      <change afterPath="$PROJECT_DIR$/days26-50/day46/token.txt" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="code clean up and optimization">
+      <change afterPath="$PROJECT_DIR$/days26-50/day47/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days26-50/day46/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days26-50/day46/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,14 +291,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00041" summary="created a chinese flashcard program">
-      <option name="closed" value="true" />
-      <created>1690576441431</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1690576441431</updated>
-    </task>
     <task id="LOCAL-00042" summary="updated program to not error if there are no more words">
       <option name="closed" value="true" />
       <created>1690576814289</created>
@@ -436,12 +427,19 @@
       <option name="project" value="LOCAL" />
       <updated>1693927626095</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="code clean up and optimization">
+      <option name="closed" value="true" />
+      <created>1693928184746</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1693928184746</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 25 working with pandas and csv files" />
     <MESSAGE value="new game for guessing 50 states" />
     <MESSAGE value="50 states game working" />
     <MESSAGE value="list comprehension" />
@@ -466,7 +464,8 @@
     <MESSAGE value="created a pixla account and deleted it" />
     <MESSAGE value="created a flight search app" />
     <MESSAGE value="finished both 45 and 46" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished both 45 and 46" />
+    <MESSAGE value="code clean up and optimization" />
+    <option name="LAST_COMMIT_MESSAGE" value="code clean up and optimization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
