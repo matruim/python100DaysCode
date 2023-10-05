@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="amazon tracker for esp32">
-      <change afterPath="$PROJECT_DIR$/days26-50/day48/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day49/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days26-50/day50/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day51/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Twitter bot complete">
+      <change afterPath="$PROJECT_DIR$/days51-75/day52/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -315,14 +311,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00043" summary="automated birthday email sender.">
-      <option name="closed" value="true" />
-      <created>1690923999078</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1690923999079</updated>
-    </task>
     <task id="LOCAL-00044" summary="automated birthday email sender.">
       <option name="closed" value="true" />
       <created>1690924036796</created>
@@ -459,7 +447,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694017262490</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Twitter bot complete">
+      <option name="closed" value="true" />
+      <created>1696525403980</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1696525403980</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -475,7 +471,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="50 states game working" />
     <MESSAGE value="list comprehension" />
     <MESSAGE value="code clean up and day 27" />
     <MESSAGE value="code clean up" />
@@ -500,7 +495,8 @@
     <MESSAGE value="finished both 45 and 46" />
     <MESSAGE value="code clean up and optimization" />
     <MESSAGE value="amazon tracker for esp32" />
-    <option name="LAST_COMMIT_MESSAGE" value="amazon tracker for esp32" />
+    <MESSAGE value="Twitter bot complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Twitter bot complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
