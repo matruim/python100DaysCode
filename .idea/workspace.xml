@@ -4,11 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 54 complete">
-      <change afterPath="$PROJECT_DIR$/days51-75/day55/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day55/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python100DaysCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python100DaysCode.iml" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 55 complete flask guessing game.">
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/css/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-v4compatibility.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-v4compatibility.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/personalsite/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/personalsite/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/personalsite/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/personalsite/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day56/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day57/blog_project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day57/blog_project/post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day57/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day57/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day57/templates/guess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day57/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -62,18 +86,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TODO_SCOPE": "All Places",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/days26-50/day40",
-    "settings.editor.selected.configurable": "preferences.externalTools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode/days26-50/day40&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/days26-50/day40" />
@@ -83,11 +107,11 @@
       <recent name="$PROJECT_DIR$/days26-50/day31" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/days26-50/day45" />
-      <recent name="$PROJECT_DIR$/days26-50/day39" />
-      <recent name="$PROJECT_DIR$/days26-50/day36" />
-      <recent name="$PROJECT_DIR$/days26-50/day34" />
-      <recent name="$PROJECT_DIR$/days26-50/day34/images" />
+      <recent name="$PROJECT_DIR$/days51-75/day57/blog_project" />
+      <recent name="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts" />
+      <recent name="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/css" />
+      <recent name="$PROJECT_DIR$/days51-75/day56/personalsite/static" />
+      <recent name="$PROJECT_DIR$/days51-75/day56/personalsite/templates" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -316,14 +340,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00046" summary="ISS Tracker and email">
-      <option name="closed" value="true" />
-      <created>1691515437956</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1691515437956</updated>
-    </task>
     <task id="LOCAL-00047" summary="Gui version of the quiz game">
       <option name="closed" value="true" />
       <created>1691521064694</created>
@@ -460,7 +476,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696997074099</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="day 55 complete flask guessing game.">
+      <option name="closed" value="true" />
+      <created>1697000339315</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1697000339315</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,7 +500,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="code clean up" />
     <MESSAGE value="day 28 start" />
     <MESSAGE value="pomodoro app done. could use some modification. would be nice to add sound and force to top of screen." />
     <MESSAGE value="day 29 password manager" />
@@ -501,7 +524,8 @@
     <MESSAGE value="Twitter bot complete" />
     <MESSAGE value="Instagram Bot Complete" />
     <MESSAGE value="day 54 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 54 complete" />
+    <MESSAGE value="day 55 complete flask guessing game." />
+    <option name="LAST_COMMIT_MESSAGE" value="day 55 complete flask guessing game." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
