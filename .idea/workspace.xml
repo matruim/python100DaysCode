@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 56 images">
-      <change afterPath="$PROJECT_DIR$/days51-75/day58/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day58/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day58/solution.html" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 58 bootstrap complete">
+      <change afterPath="$PROJECT_DIR$/days51-75/day59/post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day59/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day59/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day59/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day59/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day59/templates/single-post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -82,11 +85,11 @@
       <recent name="$PROJECT_DIR$/days26-50/day31" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/days51-75/day59/static" />
+      <recent name="$PROJECT_DIR$/days51-75/day59/templates" />
+      <recent name="$PROJECT_DIR$/days51-75/day59" />
       <recent name="$PROJECT_DIR$/days51-75/day58" />
       <recent name="$PROJECT_DIR$/days51-75/day57/blog_project" />
-      <recent name="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts" />
-      <recent name="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/css" />
-      <recent name="$PROJECT_DIR$/days51-75/day56/personalsite/static" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -315,14 +318,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00050" summary="Gui udpate and clean up">
-      <option name="closed" value="true" />
-      <created>1691530489337</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1691530489338</updated>
-    </task>
     <task id="LOCAL-00051" summary="Gui udpate and clean up">
       <option name="closed" value="true" />
       <created>1691530499167</created>
@@ -459,7 +454,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697481177951</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="day 58 bootstrap complete">
+      <option name="closed" value="true" />
+      <created>1697483539415</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1697483539415</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -475,7 +478,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 29 password manager saves passwords in plane txt but it does autogen passwords." />
     <MESSAGE value="Day 30 all about error handling complete" />
     <MESSAGE value="created a flip card system to study 100 most common French words" />
     <MESSAGE value="created a chinese flashcard program" />
@@ -500,7 +502,8 @@
     <MESSAGE value="finish day 56 and 57" />
     <MESSAGE value="day 57 html and stylesheet" />
     <MESSAGE value="day 56 images" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 56 images" />
+    <MESSAGE value="day 58 bootstrap complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 58 bootstrap complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
