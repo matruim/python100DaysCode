@@ -4,35 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 55 complete flask guessing game.">
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/css/images/overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-v4compatibility.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts/fa-v4compatibility.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/images/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/personalsite/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/personalsite/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/personalsite/static/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/personalsite/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day56/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day57/blog_project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day57/blog_project/post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day57/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day57/templates/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day57/templates/guess.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day57/templates/index.html" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 56 images">
+      <change afterPath="$PROJECT_DIR$/days51-75/day58/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day58/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day58/solution.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,11 +82,11 @@
       <recent name="$PROJECT_DIR$/days26-50/day31" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/days51-75/day58" />
       <recent name="$PROJECT_DIR$/days51-75/day57/blog_project" />
       <recent name="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/webfonts" />
       <recent name="$PROJECT_DIR$/days51-75/day56/identifyTemplateSite/static/assets/css" />
       <recent name="$PROJECT_DIR$/days51-75/day56/personalsite/static" />
-      <recent name="$PROJECT_DIR$/days51-75/day56/personalsite/templates" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -340,30 +315,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00047" summary="Gui version of the quiz game">
-      <option name="closed" value="true" />
-      <created>1691521064694</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1691521064694</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Gui version of the quiz game">
-      <option name="closed" value="true" />
-      <created>1691524275246</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1691524275246</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Gui udpate and clean up">
-      <option name="closed" value="true" />
-      <created>1691530456961</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1691530456962</updated>
-    </task>
     <task id="LOCAL-00050" summary="Gui udpate and clean up">
       <option name="closed" value="true" />
       <created>1691530489337</created>
@@ -484,7 +435,31 @@
       <option name="project" value="LOCAL" />
       <updated>1697000339315</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="finish day 56 and 57">
+      <option name="closed" value="true" />
+      <created>1697481106227</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1697481106228</updated>
+    </task>
+    <task id="LOCAL-00066" summary="day 57 html and stylesheet">
+      <option name="closed" value="true" />
+      <created>1697481157403</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1697481157403</updated>
+    </task>
+    <task id="LOCAL-00067" summary="day 56 images">
+      <option name="closed" value="true" />
+      <created>1697481177951</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1697481177951</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,9 +475,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 28 start" />
-    <MESSAGE value="pomodoro app done. could use some modification. would be nice to add sound and force to top of screen." />
-    <MESSAGE value="day 29 password manager" />
     <MESSAGE value="day 29 password manager saves passwords in plane txt but it does autogen passwords." />
     <MESSAGE value="Day 30 all about error handling complete" />
     <MESSAGE value="created a flip card system to study 100 most common French words" />
@@ -525,7 +497,10 @@
     <MESSAGE value="Instagram Bot Complete" />
     <MESSAGE value="day 54 complete" />
     <MESSAGE value="day 55 complete flask guessing game." />
-    <option name="LAST_COMMIT_MESSAGE" value="day 55 complete flask guessing game." />
+    <MESSAGE value="finish day 56 and 57" />
+    <MESSAGE value="day 57 html and stylesheet" />
+    <MESSAGE value="day 56 images" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 56 images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
