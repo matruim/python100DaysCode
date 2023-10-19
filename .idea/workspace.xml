@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 62 end">
-      <change afterPath="$PROJECT_DIR$/days51-75/day63/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day63/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day63/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day63/templates/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day63/templates/index.html" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 63 library site complete.">
+      <change afterPath="$PROJECT_DIR$/days51-75/day64/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day64/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day64/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day64/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day64/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day64/templates/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day64/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day64/templates/select.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,11 +87,11 @@
       <recent name="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/days51-75/day64" />
       <recent name="$PROJECT_DIR$/days51-75/day63" />
       <recent name="$PROJECT_DIR$/days51-75/day62" />
       <recent name="$PROJECT_DIR$/days51-75/day61" />
       <recent name="$PROJECT_DIR$/days51-75/day59/static" />
-      <recent name="$PROJECT_DIR$/days51-75/day59/templates" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -317,14 +320,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00056" summary="created a pixla account and deleted it">
-      <option name="closed" value="true" />
-      <created>1692217277568</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1692217277568</updated>
-    </task>
     <task id="LOCAL-00057" summary="created a flight search app">
       <option name="closed" value="true" />
       <created>1692300152573</created>
@@ -461,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697646491881</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="day 63 library site complete.">
+      <option name="closed" value="true" />
+      <created>1697724090778</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1697724090778</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,7 +480,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Kayne Quote Program" />
     <MESSAGE value="ISS Tracker and email" />
     <MESSAGE value="Gui version of the quiz game" />
     <MESSAGE value="Gui udpate and clean up" />
@@ -502,7 +504,8 @@
     <MESSAGE value="day 61 start" />
     <MESSAGE value="day 62 start" />
     <MESSAGE value="day 62 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 62 end" />
+    <MESSAGE value="day 63 library site complete." />
+    <option name="LAST_COMMIT_MESSAGE" value="day 63 library site complete." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
