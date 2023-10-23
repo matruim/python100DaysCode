@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 63 library site complete.">
-      <change afterPath="$PROJECT_DIR$/days51-75/day64/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day64/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day64/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day64/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day64/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day64/templates/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day64/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day64/templates/select.html" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Movie top 10 list Done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -320,14 +312,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00057" summary="created a flight search app">
-      <option name="closed" value="true" />
-      <created>1692300152573</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1692300152574</updated>
-    </task>
     <task id="LOCAL-00058" summary="finished both 45 and 46">
       <option name="closed" value="true" />
       <created>1693927626094</created>
@@ -464,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697724090778</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Movie top 10 list Done">
+      <option name="closed" value="true" />
+      <created>1697739144916</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1697739144916</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,7 +472,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ISS Tracker and email" />
     <MESSAGE value="Gui version of the quiz game" />
     <MESSAGE value="Gui udpate and clean up" />
     <MESSAGE value="Done with day 35" />
@@ -505,7 +496,8 @@
     <MESSAGE value="day 62 start" />
     <MESSAGE value="day 62 end" />
     <MESSAGE value="day 63 library site complete." />
-    <option name="LAST_COMMIT_MESSAGE" value="day 63 library site complete." />
+    <MESSAGE value="Movie top 10 list Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Movie top 10 list Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
