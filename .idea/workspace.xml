@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Movie top 10 list Done">
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Day 65 complete no coding">
+      <change afterPath="$PROJECT_DIR$/days51-75/day66/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day66/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day66/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +82,11 @@
       <recent name="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/days51-75/day66" />
       <recent name="$PROJECT_DIR$/days51-75/day64" />
       <recent name="$PROJECT_DIR$/days51-75/day63" />
       <recent name="$PROJECT_DIR$/days51-75/day62" />
       <recent name="$PROJECT_DIR$/days51-75/day61" />
-      <recent name="$PROJECT_DIR$/days51-75/day59/static" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -312,14 +315,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00058" summary="finished both 45 and 46">
-      <option name="closed" value="true" />
-      <created>1693927626094</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1693927626095</updated>
-    </task>
     <task id="LOCAL-00059" summary="code clean up and optimization">
       <option name="closed" value="true" />
       <created>1693928184746</created>
@@ -456,7 +451,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697739144916</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Day 65 complete no coding">
+      <option name="closed" value="true" />
+      <created>1698093125151</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1698093125151</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +475,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Gui version of the quiz game" />
     <MESSAGE value="Gui udpate and clean up" />
     <MESSAGE value="Done with day 35" />
     <MESSAGE value="Created a stock tracker that will send you a text with the change in stock and the headlines related to the company." />
@@ -497,7 +499,8 @@
     <MESSAGE value="day 62 end" />
     <MESSAGE value="day 63 library site complete." />
     <MESSAGE value="Movie top 10 list Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Movie top 10 list Done" />
+    <MESSAGE value="Day 65 complete no coding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 65 complete no coding" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
