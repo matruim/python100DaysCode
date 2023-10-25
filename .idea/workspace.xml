@@ -4,10 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Day 65 complete no coding">
-      <change afterPath="$PROJECT_DIR$/days51-75/day66/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day66/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day66/templates/index.html" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 67 complete">
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/static/assets/img/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/static/assets/img/contact-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/static/assets/img/edit-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/static/assets/img/home-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/static/assets/img/post-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/static/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/templates/make-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day67/templates/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +96,11 @@
       <recent name="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/days51-75/day67" />
       <recent name="$PROJECT_DIR$/days51-75/day66" />
       <recent name="$PROJECT_DIR$/days51-75/day64" />
       <recent name="$PROJECT_DIR$/days51-75/day63" />
       <recent name="$PROJECT_DIR$/days51-75/day62" />
-      <recent name="$PROJECT_DIR$/days51-75/day61" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -315,14 +329,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00059" summary="code clean up and optimization">
-      <option name="closed" value="true" />
-      <created>1693928184746</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1693928184746</updated>
-    </task>
     <task id="LOCAL-00060" summary="amazon tracker for esp32">
       <option name="closed" value="true" />
       <created>1694017262490</created>
@@ -459,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698093125151</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="day 66 complete">
+      <option name="closed" value="true" />
+      <created>1698162516173</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1698162516173</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -475,8 +489,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Gui udpate and clean up" />
-    <MESSAGE value="Done with day 35" />
     <MESSAGE value="Created a stock tracker that will send you a text with the change in stock and the headlines related to the company." />
     <MESSAGE value="Code clean up and optimization" />
     <MESSAGE value="created a pixla account and deleted it" />
@@ -500,7 +512,9 @@
     <MESSAGE value="day 63 library site complete." />
     <MESSAGE value="Movie top 10 list Done" />
     <MESSAGE value="Day 65 complete no coding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 65 complete no coding" />
+    <MESSAGE value="day 66 complete" />
+    <MESSAGE value="day 67 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 67 complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
