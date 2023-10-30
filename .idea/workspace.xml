@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="day 69 complete">
-      <change afterPath="$PROJECT_DIR$/days51-75/day72/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day72/salaries_by_college_major.csv" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Day 72 complete">
+      <change afterPath="$PROJECT_DIR$/days51-75/day73/QueryResults.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day73/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,18 +60,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TODO_SCOPE": "All Places",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/matruim/Documents/personalLearning/Udemy/python100DaysCode&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/days51-75" />
@@ -81,11 +81,11 @@
       <recent name="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/days51-75/day73" />
       <recent name="$PROJECT_DIR$/days51-75/day72" />
       <recent name="$PROJECT_DIR$/days51-75/day69" />
       <recent name="$PROJECT_DIR$/days51-75/day68" />
       <recent name="$PROJECT_DIR$/days51-75/day67" />
-      <recent name="$PROJECT_DIR$/days51-75/day66" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -314,14 +314,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00061" summary="Twitter bot complete">
-      <option name="closed" value="true" />
-      <created>1696525403980</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1696525403980</updated>
-    </task>
     <task id="LOCAL-00062" summary="Instagram Bot Complete">
       <option name="closed" value="true" />
       <created>1696539323979</created>
@@ -458,7 +450,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698433871388</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Day 72 complete">
+      <option name="closed" value="true" />
+      <created>1698692878011</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1698692878011</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,7 +474,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Code clean up and optimization" />
     <MESSAGE value="created a pixla account and deleted it" />
     <MESSAGE value="created a flight search app" />
     <MESSAGE value="finished both 45 and 46" />
@@ -499,7 +498,8 @@
     <MESSAGE value="day 66 complete" />
     <MESSAGE value="day 67 complete" />
     <MESSAGE value="day 69 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 69 complete" />
+    <MESSAGE value="Day 72 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 72 complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
