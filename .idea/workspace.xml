@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Day 72 complete">
-      <change afterPath="$PROJECT_DIR$/days51-75/day73/QueryResults.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days51-75/day73/main.py" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Day 73 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,11 +79,11 @@
       <recent name="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/days51-75/day74" />
       <recent name="$PROJECT_DIR$/days51-75/day73" />
       <recent name="$PROJECT_DIR$/days51-75/day72" />
       <recent name="$PROJECT_DIR$/days51-75/day69" />
       <recent name="$PROJECT_DIR$/days51-75/day68" />
-      <recent name="$PROJECT_DIR$/days51-75/day67" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -314,14 +312,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00062" summary="Instagram Bot Complete">
-      <option name="closed" value="true" />
-      <created>1696539323979</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1696539323979</updated>
-    </task>
     <task id="LOCAL-00063" summary="day 54 complete">
       <option name="closed" value="true" />
       <created>1696997074099</created>
@@ -458,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698692878011</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Day 73 complete">
+      <option name="closed" value="true" />
+      <created>1698697037535</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1698697037535</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,7 +472,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="created a pixla account and deleted it" />
     <MESSAGE value="created a flight search app" />
     <MESSAGE value="finished both 45 and 46" />
     <MESSAGE value="code clean up and optimization" />
@@ -499,7 +496,8 @@
     <MESSAGE value="day 67 complete" />
     <MESSAGE value="day 69 complete" />
     <MESSAGE value="Day 72 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 72 complete" />
+    <MESSAGE value="Day 73 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 73 complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
