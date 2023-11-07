@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Day 73 complete">
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Day 74 complete">
+      <change afterPath="$PROJECT_DIR$/days51-75/day75/Bitcoin Search Trend.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day75/Daily Bitcoin Price.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day75/Google Trends and Data Visualisation (start).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day75/TESLA Search Trend vs Price.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day75/UE Benefits Search vs UE Rate 2004-19.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days51-75/day75/UE Benefits Search vs UE Rate 2004-20.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days76-100/day76/Google Play Store App Analytics (start).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days76-100/day76/apps.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days76-100/day77/Computation_with_NumPy_and_N_Dimensional_Arrays_(start).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days76-100/day77/yummy_macarons.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +89,11 @@
       <recent name="$PROJECT_DIR$/days26-50/day31/chinese_flash_cards" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/days76-100/day77" />
+      <recent name="$PROJECT_DIR$/days76-100/day76" />
+      <recent name="$PROJECT_DIR$/days51-75/day75" />
       <recent name="$PROJECT_DIR$/days51-75/day74" />
       <recent name="$PROJECT_DIR$/days51-75/day73" />
-      <recent name="$PROJECT_DIR$/days51-75/day72" />
-      <recent name="$PROJECT_DIR$/days51-75/day69" />
-      <recent name="$PROJECT_DIR$/days51-75/day68" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -312,14 +322,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00063" summary="day 54 complete">
-      <option name="closed" value="true" />
-      <created>1696997074099</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1696997074099</updated>
-    </task>
     <task id="LOCAL-00064" summary="day 55 complete flask guessing game.">
       <option name="closed" value="true" />
       <created>1697000339315</created>
@@ -456,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698697037535</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Day 74 complete">
+      <option name="closed" value="true" />
+      <created>1698700853100</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1698700853100</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +482,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="created a flight search app" />
     <MESSAGE value="finished both 45 and 46" />
     <MESSAGE value="code clean up and optimization" />
     <MESSAGE value="amazon tracker for esp32" />
@@ -497,7 +506,8 @@
     <MESSAGE value="day 69 complete" />
     <MESSAGE value="Day 72 complete" />
     <MESSAGE value="Day 73 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 73 complete" />
+    <MESSAGE value="Day 74 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 74 complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
