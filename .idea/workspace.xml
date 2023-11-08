@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="lots of jupiter notebooks">
-      <change afterPath="$PROJECT_DIR$/days76-100/day82/dash.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days76-100/day82/dot.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days76-100/day82/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days76-100/day82/morse_code.csv" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Morse code translater and player">
+      <change afterPath="$PROJECT_DIR$/days76-100/day83/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days76-100/day83/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days76-100/day83/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days76-100/day83/templates/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days76-100/day83/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days76-100/day83/templates/resume.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -344,14 +346,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00065" summary="finish day 56 and 57">
-      <option name="closed" value="true" />
-      <created>1697481106227</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1697481106228</updated>
-    </task>
     <task id="LOCAL-00066" summary="day 57 html and stylesheet">
       <option name="closed" value="true" />
       <created>1697481157403</created>
@@ -488,7 +482,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699371572785</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Morse code translater and player">
+      <option name="closed" value="true" />
+      <created>1699378245262</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1699378245262</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,7 +506,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="code clean up and optimization" />
     <MESSAGE value="amazon tracker for esp32" />
     <MESSAGE value="Twitter bot complete" />
     <MESSAGE value="Instagram Bot Complete" />
@@ -529,7 +530,8 @@
     <MESSAGE value="Day 73 complete" />
     <MESSAGE value="Day 74 complete" />
     <MESSAGE value="lots of jupiter notebooks" />
-    <option name="LAST_COMMIT_MESSAGE" value="lots of jupiter notebooks" />
+    <MESSAGE value="Morse code translater and player" />
+    <option name="LAST_COMMIT_MESSAGE" value="Morse code translater and player" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

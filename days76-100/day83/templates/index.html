@@ -1,0 +1,19 @@
+{% include "header.html" %}
+<div class="container">
+    <div class="row">
+        <div class="col-12" style="height: 75vh">
+            <div class="d-flex flex-column justify-content-center text-center" style="height: 100%; text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1)">
+                <h1 class="fw-bold text-white lh-lg" style="font-size: 5em;">Jared Good</h1>
+                <h3 class="text-white-50" style="font-size: 1.75em">Developer</h3>
+                <hr class="d-grid gap-2 col-6 mx-auto">
+                <div class="d-grid gap-2 col-6 mx-auto">
+                    <a href="{{ url_for('resume') }}" class="btn btn-light btn-lrg noChange font-monospace">
+                        <i class="fa fa-code"></i>
+                        Learn More
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% include "footer.html" %}
