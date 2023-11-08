@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Morse code translater and player">
-      <change afterPath="$PROJECT_DIR$/days76-100/day83/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days76-100/day83/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days76-100/day83/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days76-100/day83/templates/hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days76-100/day83/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days76-100/day83/templates/resume.html" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Website template">
+      <change afterPath="$PROJECT_DIR$/days76-100/day84/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -346,14 +341,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00066" summary="day 57 html and stylesheet">
-      <option name="closed" value="true" />
-      <created>1697481157403</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1697481157403</updated>
-    </task>
     <task id="LOCAL-00067" summary="day 56 images">
       <option name="closed" value="true" />
       <created>1697481177951</created>
@@ -490,7 +477,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699378245262</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Website template">
+      <option name="closed" value="true" />
+      <created>1699476921687</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1699476921688</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,7 +501,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="amazon tracker for esp32" />
     <MESSAGE value="Twitter bot complete" />
     <MESSAGE value="Instagram Bot Complete" />
     <MESSAGE value="day 54 complete" />
@@ -531,7 +525,8 @@
     <MESSAGE value="Day 74 complete" />
     <MESSAGE value="lots of jupiter notebooks" />
     <MESSAGE value="Morse code translater and player" />
-    <option name="LAST_COMMIT_MESSAGE" value="Morse code translater and player" />
+    <MESSAGE value="Website template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Website template" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
