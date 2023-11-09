@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="code clean up">
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="quick and dirty typing test">
+      <change afterPath="$PROJECT_DIR$/days76-100/day87/breakout.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -312,14 +313,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00070" summary="day 60 bootstrap blog template with working form">
-      <option name="closed" value="true" />
-      <created>1697491564314</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1697491564314</updated>
-    </task>
     <task id="LOCAL-00071" summary="day 61 start">
       <option name="closed" value="true" />
       <created>1697491651140</created>
@@ -456,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699550385319</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="quick and dirty typing test">
+      <option name="closed" value="true" />
+      <created>1699554654271</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1699554654271</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +473,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 55 complete flask guessing game." />
     <MESSAGE value="finish day 56 and 57" />
     <MESSAGE value="day 57 html and stylesheet" />
     <MESSAGE value="day 56 images" />
@@ -497,7 +497,8 @@
     <MESSAGE value="Tic Tac Toe" />
     <MESSAGE value="my image watermarking program" />
     <MESSAGE value="code clean up" />
-    <option name="LAST_COMMIT_MESSAGE" value="code clean up" />
+    <MESSAGE value="quick and dirty typing test" />
+    <option name="LAST_COMMIT_MESSAGE" value="quick and dirty typing test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
