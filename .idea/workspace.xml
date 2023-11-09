@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="Tic Tac Toe">
-      <change afterPath="$PROJECT_DIR$/days76-100/day85/Bard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days76-100/day85/cyberpunk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days76-100/day85/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days76-100/day85/mergeTests.py" afterDir="false" />
+    <list default="true" id="cc217781-fd3a-4514-99e5-e0cc84ef2e35" name="Changes" comment="my image watermarking program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days76-100/day85/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/days76-100/day85/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -344,14 +341,6 @@
       <option name="project" value="LOCAL" />
       <updated>1688592361735</updated>
     </task>
-    <task id="LOCAL-00068" summary="day 58 bootstrap complete">
-      <option name="closed" value="true" />
-      <created>1697483539415</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1697483539415</updated>
-    </task>
     <task id="LOCAL-00069" summary="day 59 bootstrap blog template">
       <option name="closed" value="true" />
       <created>1697489638839</created>
@@ -488,7 +477,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699478542912</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="my image watermarking program">
+      <option name="closed" value="true" />
+      <created>1699549520300</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1699549520301</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,7 +501,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Instagram Bot Complete" />
     <MESSAGE value="day 54 complete" />
     <MESSAGE value="day 55 complete flask guessing game." />
     <MESSAGE value="finish day 56 and 57" />
@@ -529,7 +525,8 @@
     <MESSAGE value="Morse code translater and player" />
     <MESSAGE value="Website template" />
     <MESSAGE value="Tic Tac Toe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tic Tac Toe" />
+    <MESSAGE value="my image watermarking program" />
+    <option name="LAST_COMMIT_MESSAGE" value="my image watermarking program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
